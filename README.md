@@ -10,7 +10,8 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
 
-# 👋 Hi, I’m Dmitry    
+## 👋 Hi, I’m Dmitry    
+
 - 👀 I’m interested in iOS/macOS development.
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
 - 🧑‍💻 I'm learning at university.
