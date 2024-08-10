@@ -15,6 +15,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa" width="600" height="300"/>
+</div>
+
+https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa
+
 ### 🧑‍💻 About Me :
 - 👀 I’m interested in iOS/macOS development.
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
