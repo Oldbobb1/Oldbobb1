@@ -11,7 +11,7 @@
     </a>
 
 ## 👋 Hi, I’m Dmitry    
-### : 🧑‍💻 : About Me :
+### 🧑‍💻 About Me :
 - 👀 I’m interested in iOS/macOS development.
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
 - 🧑‍💻 I'm learning at university.
