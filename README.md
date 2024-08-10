@@ -12,11 +12,8 @@
    
 <h1>
   hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-    <iframe src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa">via GIPHY</a></p>
-</div>
 
 ### 🧑‍💻 About Me :
 - 👀 I’m interested in iOS/macOS development.
