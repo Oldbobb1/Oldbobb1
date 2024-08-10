@@ -16,7 +16,7 @@
 </h1>
 
 <div align="center">
-  <div src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa">
+  <div src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa"/>
 </div>
 
 
