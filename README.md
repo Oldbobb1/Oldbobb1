@@ -15,11 +15,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <div src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa"/>
-</div>
-
-
 ### 🧑‍💻 About Me :
 - 👀 I’m interested in iOS/macOS development.
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
