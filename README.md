@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Dmitry
+# 👋 Hi, I’m Dmitry
 - 👀 I’m interested in iOS/macOS development.
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
 - 🧑‍💻 I'm learning at university.
