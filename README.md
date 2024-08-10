@@ -12,11 +12,10 @@
    
 <h1>
   hey there
-   <iframe src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa">via GIPHY</a></p>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <iframe src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa">via GIPHY</a></p>
 </div>
 
 ### 🧑‍💻 About Me :
