@@ -16,10 +16,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa" width="600" height="300"/>
+  <img src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="600" height="300"/>
 </div>
 
-https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa
+<iframe src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa">via GIPHY</a></p>
 
 ### 🧑‍💻 About Me :
 - 👀 I’m interested in iOS/macOS development.
