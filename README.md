@@ -10,7 +10,15 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
    
-## 👋 Hi, I’m Dmitry    
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### 🧑‍💻 About Me :
 - 👀 I’m interested in iOS/macOS development.
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
@@ -21,5 +29,5 @@
 
 <!---
 Oldbobb1/Oldbobb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. ## 👋 Hi, I’m Dmitry   
 --->
