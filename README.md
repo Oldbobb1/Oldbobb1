@@ -16,7 +16,7 @@
 </h1>
 
 <div align="center">
-  <div src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa">via GIPHY</a></p>
+  <div src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa">
 </div>
 
 
