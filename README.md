@@ -6,13 +6,13 @@
 
   </p>
 
-<p align='left'>
-   <a href="https://www.linkedin.com/in/oldbbob1/">      
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/BobbiOld">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+ <p align='left'>
+    <a href="https://www.linkedin.com/in/oldbbob1/">      
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://t.me/BobbiOld">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
 
 <!---
 Oldbobb1/Oldbobb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
