@@ -50,10 +50,11 @@ I’m a Junior iOS/macOS development. <img src="https://media.giphy.com/media/WU
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oldbobb1&theme=light&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oldbobb1)
+
   </p>
 
 <!---
 Oldbobb1/Oldbobb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. 
+You can click the Preview link to take a look at your changes.
 --->
