@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
     <p align='center'>
-   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=Oldbobb1&style=flat-square&color=blue" alt=""/>
        </a>
 <h1 align = 'center'>
   hey there
