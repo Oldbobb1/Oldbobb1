@@ -28,7 +28,7 @@ I’m a Junior iOS/macOS development. <img src="https://media.giphy.com/media/WU
 - 🧑‍💻 I'm learning at university.
 - 📫 How to reach me: therromanov@gmail.com
 
-Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode"
@@ -49,6 +49,8 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oldbobb1&theme=light&background=000000)](https://git.io/streak-stats)
   </p>
 
 <!---
