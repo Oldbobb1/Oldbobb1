@@ -1,7 +1,3 @@
-<h1 align = 'center'>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div id="header" align="center">
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65be5b65df804947fb82c2c8_65be5b842a1efd4450794ac7/scale_1200" height="350" widht="350" /> 
 </div>
