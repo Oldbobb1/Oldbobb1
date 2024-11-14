@@ -14,7 +14,7 @@
        </a>
 
 ### 🧑‍💻 About Me :
-I’m iOS/macOS development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I’m iOS/macOS development.
 
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
 - 🧑‍💻 I'm learning at university.
