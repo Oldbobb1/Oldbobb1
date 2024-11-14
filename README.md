@@ -6,13 +6,14 @@
     </a>
     <a href="https://t.me/BobbiOld">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
      <p align='center'>
    <img src="https://komarev.com/ghpvc/?username=Oldbobb1&style=flat-square&color=blue" alt=""/>
        </a>
 
 ### 🧑‍💻 About Me :
-I’m a Junior iOS/macOS development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I’m iOS/macOS development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
 - 🧑‍💻 I'm learning at university.
