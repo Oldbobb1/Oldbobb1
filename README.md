@@ -6,6 +6,7 @@
     </a>
     <a href="https://t.me/BobbiOld">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+       <a href="therromanov@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
      <p align='center'>
@@ -17,7 +18,7 @@ I’m iOS/macOS development. <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
 - 🧑‍💻 I'm learning at university.
-- 📫 How to reach me: therromanov@gmail.com
+- 📫 How to reach me:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
