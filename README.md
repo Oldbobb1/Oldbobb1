@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/c5cdc8104513603.5f647cdd7b27c.jpg" height="100" widht="100" /> 
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/c5cdc8104513603.5f647cdd7b27c.jpg" height="250" widht="250" /> 
 </div>
 
  <p align='center'>
