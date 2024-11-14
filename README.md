@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65be5b65df804947fb82c2c8_65be5b842a1efd4450794ac7/scale_1200" height="270" widht="300" /> 
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65be5b65df804947fb82c2c8_65be5b842a1efd4450794ac7/scale_1200" height="250" widht="300" /> 
 </div>
 
  <p align='center'>
