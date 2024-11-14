@@ -14,11 +14,11 @@
        </a>
 
 ### 🧑‍💻 About Me :
-I’m iOS/macOS development.
-
-- 🌱 I’m currently learning Swift/UIKit/SwiftUI.
-- 🧑‍💻 I'm learning at university.
-- 👋 Привет! Я начинающий iOS-разработчик с 2-летним опытом изучения Swift и UIKit и 6-месячным погружением в SwiftUI. В настоящее время учусь в университете и развиваю навыки для создания удобных и эффективных приложений под iOS. Моя цель — стать профессионалом в iOS-разработке и создавать проекты, которые упрощают повседневные задачи пользователей.
+- 👋 Hi!
+- I am an aspiring iOS developer with 2 years of experience learning Swift and UIKit and 6 months of immersion in SwiftUI.
+- Currently studying at university. 
+- Developing skills to create user-friendly and efficient iOS apps.
+- My goal is to become an iOS development professional and create projects that simplify users' daily tasks.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
