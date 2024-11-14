@@ -18,7 +18,6 @@ I’m iOS/macOS development. <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - 🌱 I’m currently learning Swift/UIKit/SwiftUI.
 - 🧑‍💻 I'm learning at university.
-- 📫 How to reach me:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
