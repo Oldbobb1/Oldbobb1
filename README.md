@@ -14,10 +14,6 @@
      <p align='center'>
    <img src="https://komarev.com/ghpvc/?username=Oldbobb1&style=flat-square&color=blue" alt=""/>
        </a>
-       
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpudzdzOTJrNWY4YWxtYmExM3Z5N2FtZXpjMDcxNGwzZzlndDJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="250" height="200"/>
-</div>
 
 ### 🧑‍💻 About Me :
 I’m a Junior iOS/macOS development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
