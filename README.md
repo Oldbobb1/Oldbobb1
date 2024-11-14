@@ -1,3 +1,7 @@
+<h1 align = 'center'>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="header" align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/c5cdc8104513603.5f647cdd7b27c.jpg" height="250" widht="250" /> 
 </div>
@@ -10,11 +14,7 @@
      <p align='center'>
    <img src="https://komarev.com/ghpvc/?username=Oldbobb1&style=flat-square&color=blue" alt=""/>
        </a>
-<h1 align = 'center'>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+       
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpudzdzOTJrNWY4YWxtYmExM3Z5N2FtZXpjMDcxNGwzZzlndDJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="250" height="200"/>
 </div>
