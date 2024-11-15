@@ -37,11 +37,9 @@
 ### 🔥 My Stats :
 
 <div id="stat" align="center">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Oldbobb1=vn7n24fzkq&theme=default"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Oldbobb1=vn7n24fzkq&theme=default"/>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?Oldbobb1=vn7n24fzkq&theme=default"/>
-
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Oldbobb1=vn7n24fzkq&theme=default"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Oldbobb1=vn7n24fzkq&theme=default"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?Oldbobb1=vn7n24fzkq&theme=default"/>
 </div>
   </p>
 
