@@ -41,7 +41,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Oldbobb1=vn7n24fzkq&theme=github_dark" alt=""/>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?Oldbobb1=vn7n24fzkq&theme=github_dark" alt=""/>
 </div>
-  </p>
+  
 
 <!---
 Oldbobb1/Oldbobb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
