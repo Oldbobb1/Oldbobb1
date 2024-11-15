@@ -11,9 +11,8 @@
     </a>
 
 ### 🙋🏻‍♂️ About Me :
-- 👨🏻‍💻 Currently learning Swift,UIKit,SwiftUI
-- 👨🏼‍🎓 And Currently studying at university. 
-
+- 👨🏻‍💻 Currently learning Swift,UIKit,SwiftUI.
+  
 ### 💻 Languages: 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
@@ -41,7 +40,7 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oldbobb1&theme=default"/>
 </div>
   </p>
-
+  
 <!---
 Oldbobb1/Oldbobb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
