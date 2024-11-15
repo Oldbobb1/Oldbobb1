@@ -9,43 +9,38 @@
        <a href="mailto:therromanov@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-     <p align='center'>
-   <img src="https://komarev.com/ghpvc/?username=Oldbobb1&style=flat-square&color=blue" alt=""/>
-       </a>
 
-### About Me :
+### 🙋🏻‍♂️ About Me :
 - 👨🏻‍💻 Currently learning Swift,UIKit,SwiftUI
 - 👨🏼‍🎓 And Currently studying at university. 
 
-### :hammer_and_wrench: Languages: 
+### 💻 Languages: 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=3cCrxzZF7LfB&format=png&color=000000" title="SwiftUI"
-  alt="SwiftUI" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=wvf2supDXcj7&format=png&color=000000" title="UIKit"
-  alt="UIKit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=3cCrxzZF7LfB&format=png&color=000000" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=wvf2supDXcj7&format=png&color=000000" title="UIKit" alt="UIKit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
  
 </div>
 
-### Tools : 
+### 🛠️ Tools : 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode"
-    alt="Swift" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma"
-    alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/?size=100&id=82702&format=png&color=000000" title="Instruments"
-  alt="Instruments" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=22978&format=png&color=000000" title="AppStore"
-  alt="AppStore" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40"/>
+
 </div>
 
-### :fire: My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oldbobb1)
+### 🔥 My Stats :
 
+<div id="stat" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Oldbobb1=vn7n24fzkq&theme=github_light" alt="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Oldbobb1=vn7n24fzkq&theme=github_light" alt=""/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?Oldbobb1=vn7n24fzkq&theme=github_light" alt=""/>
+</div>
   </p>
 
 <!---
