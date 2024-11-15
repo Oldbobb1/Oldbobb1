@@ -11,8 +11,8 @@
     </a>
 
 ### 🙋🏻‍♂️ About Me :
-- 👨🏻‍💻 Currently learning Swift,UIKit,SwiftUI. 
-- 👨🏼‍🎓 And studying at university. 
+- 👨🏻‍💻 Currently learning Swift,UIKit,SwiftUI
+- 👨🏼‍🎓 And Currently studying at university. 
 
 ### 💻 Languages: 
 <div>
@@ -21,6 +21,7 @@
   <img src="https://img.icons8.com/?size=100&id=wvf2supDXcj7&format=png&color=000000" title="UIKit" alt="UIKit" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+ 
 </div>
 
 ### 🛠️ Tools : 
@@ -30,18 +31,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40"/>
+
 </div>
 
 ### 🔥 My Stats :
+
 <div id="stat" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?
-username=vn7n24fzkq&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?
-username=vn7n24fzkq&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?
-username=vn7n24fzkq&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Oldbobb1=vn7n24fzkq&theme=default"/>
+
+
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Oldbobb1=vn7n24fzkq&theme=default"/>
+
+
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?Oldbobb1=vn7n24fzkq&theme=default"/>
+
 </div>
-  
+  </p>
 
 <!---
 Oldbobb1/Oldbobb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
