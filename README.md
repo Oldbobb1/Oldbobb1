@@ -9,9 +9,14 @@
        <a href="mailto:therromanov@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+     
+### 🙋🏻‍♂️ About me:
+- I am passionate about creating intuitive and efficient apps.
+- 👨🏻‍💻 Currently learning Swift, UIKit, and SwiftUI.
+- 🎓 Pursuing a Bachelor's degree in Applied Informatics at the Faculty of Information Systems and Technologies, Moscow International Academy (MMA).
+- 🌱 I'm interested in iOS app development and improving user experience.
+- 🎯 My goal is to create apps that solve real user problems.
 
-<!-- ### 🙋🏻‍♂️ About Me : -->
-<!-- - 👨🏻‍💻 Currently learning Swift, UIKit, SwiftUI. -->
 
               
 ### 💻 Languages: 
